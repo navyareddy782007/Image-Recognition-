@@ -1,0 +1,4 @@
+imgrec/
+venv/
+__pycache__/
+*.pyc
